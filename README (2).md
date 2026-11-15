@@ -1,8 +1,8 @@
 <div align="center">
 
-# ✨ Aditi Raghuvanshi ✨
+#  Aditi Raghuvanshi 
 
-### 🌌 An Interactive 3D Portfolio
+###  An Interactive 3D Portfolio
 
 *I build real-life, problem-solving projects that are helpful for everyone.*
 
@@ -34,35 +34,35 @@ The entire site lives in **one single HTML file**. No installation, no build ste
 
 ---
 
-## 🎨 Features
+## Features
 
 | | Feature | What it does |
 |---|---|---|
-| 🌐 | **3D Background** | Wireframe shapes and 1,400+ particles that react to your mouse and scroll |
-| 🖱️ | **Custom Cursor** | Glowing dot and ring that morph into different shapes on links, cards and icons, with a sparkle trail |
-| 🎞️ | **Sliding Projects** | Project cards glide in from alternating sides as you scroll, with 3D tilt on hover and a click animation |
-| 🎵 | **Ambient Music** | A soothing tune generated live in your browser, with an animated equalizer button |
-| 👤 | **Basic Info Panel** | A pop-up with my name, college, contact and city |
-| 🎈 | **Floating Social Icons** | Bobbing icons that glow in their brand colors on hover |
-| 📈 | **Scroll Magic** | Progress bar, animated heading, moving banner and counting numbers |
-| 📱 | **Responsive** | Looks great on phones, tablets and desktops |
-| ♿ | **Accessible** | Honors the *reduced motion* setting and works even if WebGL is unavailable |
+| | **3D Background** | Wireframe shapes and 1,400+ particles that react to your mouse and scroll |
+|  | **Custom Cursor** | Glowing dot and ring that morph into different shapes on links, cards and icons, with a sparkle trail |
+|  | **Sliding Projects** | Project cards glide in from alternating sides as you scroll, with 3D tilt on hover and a click animation |
+|  | **Ambient Music** | A soothing tune generated live in your browser, with an animated equalizer button |
+|  | **Basic Info Panel** | A pop-up with my name, college, contact and city |
+|  | **Floating Social Icons** | Bobbing icons that glow in their brand colors on hover |
+|  | **Scroll Magic** | Progress bar, animated heading, moving banner and counting numbers |
+|  | **Responsive** | Looks great on phones, tablets and desktops |
+|  | **Accessible** | Honors the *reduced motion* setting and works even if WebGL is unavailable |
 
 ---
 
-## 🚀 Projects Featured
+##  Projects Featured
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🧓 [ElderEase](https://aditiraghuvanshi1.github.io/Elder-Ease/index.html)
-🏆 **Runner-up project.** Helps elderly people with their day-to-day lives by making neighbourly support simple and accessible.
+###  [ElderEase](https://aditiraghuvanshi1.github.io/Elder-Ease/index.html)
+ **Runner-up project.** Helps elderly people with their day-to-day lives by making neighbourly support simple and accessible.
 
 </td>
 <td width="50%" valign="top">
 
-### 🌸 [Sakhii](https://aditiraghuvanshi1.github.io/sakhii/)
+###  [Sakhii](https://aditiraghuvanshi1.github.io/sakhii/)
 A privacy-first women's health companion with 100% on-device data privacy, available in English, Hindi and Kannada.
 
 </td>
@@ -70,13 +70,13 @@ A privacy-first women's health companion with 100% on-device data privacy, avail
 <tr>
 <td width="50%" valign="top">
 
-### 🍝 [Tara](https://aditiraghuvanshi1.github.io/tara/)
+###  [Tara](https://aditiraghuvanshi1.github.io/tara/)
 An elegant multi-page website for a professional Italian restaurant, with menu, ordering and reservations.
 
 </td>
 <td width="50%" valign="top">
 
-### 🛏️ [Nidra](https://aditiraghuvanshi1.github.io/nidra/)
+###  [Nidra](https://aditiraghuvanshi1.github.io/nidra/)
 A calm, polished website for a mattress company, built around the idea of better sleep.
 
 </td>
@@ -85,7 +85,7 @@ A calm, polished website for a mattress company, built around the idea of better
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 - **HTML5 & CSS3** for structure, glassmorphism cards, gradients and animations
 - **Vanilla JavaScript** for the cursor, scroll effects, tilt and interactions
@@ -95,7 +95,7 @@ A calm, polished website for a mattress company, built around the idea of better
 
 ---
 
-## ⚡ Quick Start
+##  Quick Start
 
 ```text
 1. Download or clone this repository
@@ -103,21 +103,21 @@ A calm, polished website for a mattress company, built around the idea of better
 3. Double-click index.html to open it in your browser
 ```
 
-> 💡 An internet connection is needed to load Three.js and the font.
+> An internet connection is needed to load Three.js and the font.
 
 ---
 
-## 🌍 Deploy for Free on GitHub Pages
+##  Deploy for Free on GitHub Pages
 
 1. Create a new repository on GitHub
 2. Upload `index.html` and this `README.md`
 3. Go to **Settings → Pages**
 4. Under **Branch**, select `main` and `/ (root)`, then click **Save**
-5. Wait a minute, then visit `https://<username>.github.io/<repo-name>/` 🎊
+5. Wait a minute, then visit `https://<username>.github.io/<repo-name>/` 
 
 ---
 
-## 🎛️ Make It Yours
+##  Make It Yours
 
 Open `index.html` and look inside the `<script>` section:
 
@@ -131,17 +131,17 @@ Open `index.html` and look inside the `<script>` section:
 
 ---
 
-## 🗂️ Project Structure
+##  Project Structure
 
 ```text
-📦 portfolio
- ┣ 📜 index.html   ← the entire website
- ┗ 📜 README.md    ← you are here
+portfolio
+ ┣  index.html   ← the entire website
+ ┗  README.md    ← you are here
 ```
 
 ---
 
-## 🌐 Browser Support
+##  Browser Support
 
 | Chrome | Edge | Firefox | Safari |
 |:---:|:---:|:---:|:---:|
@@ -151,19 +151,19 @@ The custom cursor appears only on devices with a mouse.
 
 ---
 
-## 💌 Let's Connect
+##  Let's Connect
 
 <div align="center">
 
 **Aditi Raghuvanshi**
-🎓 Acropolis Institute of Technology and Research, Indore
+ Acropolis Institute of Technology and Research, Indore
 
 [LinkedIn](https://www.linkedin.com/in/aditi-raghuvanshi-4201ab37b/) · [Instagram](https://www.instagram.com/wyd_aadu/) · [GitHub](https://github.com/aditiraghuvanshi1)
 
 <br>
 
-⭐ *If you liked this portfolio, consider giving it a star!* ⭐
+ *If you liked this portfolio, consider giving it a star!* 
 
-<sub>© 2026 Aditi Raghuvanshi · Made with curiosity and a lot of ☕</sub>
+<sub>© 2026 Aditi Raghuvanshi · Made with curiosity and a lot of </sub>
 
 </div>
